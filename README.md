@@ -1,7 +1,11 @@
 # Fundamentals of machine learning 2026 Fork
 ## The course is held at FEI, VSB-TU Ostrava 
 
+<<<<<<< HEAD
 Original course material by and [Jan Platoš](https://github.com/jplatos/VSB-FEI-Fundamentals-of-Machine-Learning) and [Radek Svoboda](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning).
+=======
+Original course material by [Jan Platoš](https://github.com/jplatos/VSB-FEI-Fundamentals-of-Machine-Learning) and [Radek Svoboda](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_01.ipynb)
+>>>>>>> 1ae2e1eb165b2301fc7c741f50ab5cc620542c46
 
 # 📊 Exercises
 ## Exercise 1
