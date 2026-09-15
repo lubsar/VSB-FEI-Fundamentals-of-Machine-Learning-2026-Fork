@@ -1,15 +1,15 @@
 # Fundamentals of machine learning 2026 Fork
 ## The course is held at FEI, VSB-TU Ostrava 
 
-Original course material by [Radek Svoboda](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning/blob/main/iml_01.ipynb) and [Radek Svoboda](https://github.com/jplatos/VSB-FEI-Fundamentals-of-Machine-Learning).
+Original course material by and [Jan Platoš](https://github.com/jplatos/VSB-FEI-Fundamentals-of-Machine-Learning) and [Radek Svoboda](https://github.com/rasvob/EFREI-Introduction-to-Machine-Learning).
 
 # 📊 Exercises
 ## Exercise 1
 The aim of the exercise is to get an overview of the basic capabilities of the Pandas, Matplotlib and Seaborn libraries and be able to setup a Python Virtual Enviroment (`venv`)
 
-> [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-EFREI-Introduction-to-machine-learning-2026/blob/main/iml_01.ipynb)
+> [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/iml_01.ipynb)
 
-> [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-EFREI-Introduction-to-machine-learning-2026/blob/main/iml_01.ipynb)
+> [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/iml_01.ipynb)
 
 
 ## How to create a Python Virtual Enviroment named `venv`
