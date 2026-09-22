@@ -18,15 +18,15 @@ The second exercise turns to inspecting and cleaning a raw dataset: distinguishi
 
 ### Active learning
 
-> [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/iml_02.ipynb)
+> [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_02.ipynb)
 
-> [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/iml_02.ipynb)
+> [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_02.ipynb)
 
 ### Guided version
 
-> [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/iml_02_overview.ipynb)
+> [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_02_overview.ipynb)
 
-> [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/iml_02_overview.ipynb)
+> [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_02_overview.ipynb)
 
 ## How to create a Python Virtual Enviroment named `venv`
 ### Create `venv`
