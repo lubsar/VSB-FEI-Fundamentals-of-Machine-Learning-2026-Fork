@@ -42,6 +42,13 @@ The fourth exercise asks what to do when clusters are not compact, spherical gro
 
 > [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_04.ipynb)
 
+## Exercise 5
+The fifth exercise opens up linear regression: a line, its predictions and its errors, one gradient-descent step written yourself, and the effect of a learning rate that is too small, useful or unstable. Your NumPy model is checked against scikit-learn on the diabetes data, and logistic regression is then applied to an imbalanced classification problem where accuracy alone is misleading. The decision threshold is shown to change the errors rather than the probabilities, and you choose one for a stated purpose.
+
+> [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_05.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_05.ipynb)
+
 ## How to create a Python Virtual Enviroment named `venv`
 ### Create `venv`
 ```
