@@ -49,6 +49,13 @@ The fifth exercise opens up linear regression: a line, its predictions and its e
 
 > [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_05.ipynb)
 
+## Exercise 6
+The sixth exercise builds a decision tree from first principles: what impurity measures, how to find the best split on a tiny dataset by comparing every possible boundary, and how a tree carves the feature space into axis-aligned regions. On breast-cancer diagnosis data, you diagnose underfitting and overfitting and select a defensible single tree. You then see how combining many trees reduces variance and compare two ensembles through their confusion matrices. Feature importance is treated as evidence about a fitted model, not as causality.
+
+> [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_06.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_06.ipynb)
+
 ## How to create a Python Virtual Enviroment named `venv`
 ### Create `venv`
 ```
