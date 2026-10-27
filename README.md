@@ -56,6 +56,13 @@ The sixth exercise builds a decision tree from first principles: what impurity m
 
 > [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_06.ipynb)
 
+## Exercise 7
+The seventh exercise contrasts boosting with the parallel trees of Exercise 6: each new small model focuses on what the current ensemble still gets wrong. You start with a single residual update fitted by a decision stump, see how repeating it builds an additive model, and study how the learning rate and the number of trees must be considered together. On breast-cancer data you compare boosting by more than accuracy, choose the number of stages from the validation loss, audit the final model once on the test set, and meet an optimised implementation with early stopping.
+
+> [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_07.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_07.ipynb)
+
 ## How to create a Python Virtual Enviroment named `venv`
 ### Create `venv`
 ```
