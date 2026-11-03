@@ -63,6 +63,13 @@ The seventh exercise contrasts boosting with the parallel trees of Exercise 6: e
 
 > [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_07.ipynb)
 
+## Exercise 8
+The eighth exercise introduces dimensionality reduction and latent spaces. You derive principal components from the covariance matrix, project and reconstruct data, and see how scaling changes PCA. You choose the number of components from explained variance and reconstructed digit images, and use TruncatedSVD on sparse text. PCA, t-SNE and optionally UMAP are then compared as two-dimensional maps, with trustworthiness used to audit them rather than trusting the picture. Finally, PCA is placed inside a leakage-safe pipeline, and the assessed task is a short latent-space audit.
+
+> [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_08.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_08.ipynb)
+
 ## How to create a Python Virtual Enviroment named `venv`
 ### Create `venv`
 ```
