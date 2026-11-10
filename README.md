@@ -64,11 +64,18 @@ The seventh exercise contrasts boosting with the parallel trees of Exercise 6: e
 > [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_07.ipynb)
 
 ## Exercise 8
-The eighth exercise introduces dimensionality reduction and latent spaces. You derive principal components from the covariance matrix, project and reconstruct data, and see how scaling changes PCA. You choose the number of components from explained variance and reconstructed digit images, and use TruncatedSVD on sparse text. PCA, t-SNE and optionally UMAP are then compared as two-dimensional maps, with trustworthiness used to audit them rather than trusting the picture. Finally, PCA is placed inside a leakage-safe pipeline, and the assessed task is a short latent-space audit.
+The eighth exercise starts with PCA as a direction of maximum variance on a correlated 2D cloud, then projects and reconstructs it. On the wine data you see how scaling changes what PCA finds. On handwritten digits you choose a number of components from cumulative explained variance and from reconstruction quality. TruncatedSVD uncovers latent themes in a sparse bag-of-words matrix, and PCA is compared with t-SNE and optionally UMAP across several perplexities, with trustworthiness used to check what a 2D plot can and cannot support. The exercise ends by fitting PCA inside a leakage-safe pipeline.
 
 > [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_08.ipynb)
 
 > [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_08.ipynb)
+
+## Exercise 9
+The ninth exercise asks how to design, run, inspect and defend a hyperparameter search without leaking information from the test set. Using an SVM on breast-cancer data, it separates model parameters from hyperparameters and builds intuition for `C`, `gamma` and the kernel. It then introduces Optuna's trial, objective, study and sampler. You run a seeded TPE study on cross-validated ROC-AUC, inspect the whole study rather than only the winner, and compare TPE with random search under the same budget. Finally you refit the chosen configuration and evaluate it once on the held-out test set.
+
+> [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_09.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_09.ipynb)
 
 ## How to create a Python Virtual Enviroment named `venv`
 ### Create `venv`
