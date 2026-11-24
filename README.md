@@ -77,6 +77,13 @@ The ninth exercise asks how to design, run, inspect and defend a hyperparameter 
 
 > [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_09.ipynb)
 
+## Exercise 10
+The tenth exercise builds a neural network from its pieces before comparing it with a library implementation. You see why a single perceptron solves AND but not XOR, and how a hidden layer with a nonlinear activation changes that. You trace a forward pass by matrix shape, debug a deliberate shape error, and derive backpropagation for sigmoid output with binary cross-entropy, verifying one gradient numerically. A small NumPy MLP is trained on XOR and then on the two-moons data, and the exercise closes by treating network capacity as a modelling choice and selecting a model rather than just adding layers.
+
+> [Jupyter Notebook](https://github.com/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_10.ipynb)
+
+> [Google Colab](https://colab.research.google.com/github/lubsar/VSB-FEI-Fundamentals-of-Machine-Learning-2026-Fork/blob/main/fml_10.ipynb)
+
 ## How to create a Python Virtual Enviroment named `venv`
 ### Create `venv`
 ```
